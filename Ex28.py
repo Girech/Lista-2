@@ -1,0 +1,5 @@
+numero = float(input("Digite um numero real:"))
+numero2 = float(input("Digite um numero real:"))
+numero3 = float(input("Digite um numero real:"))
+soma = (numero**2)+(numero2**2)+(numero3**2)
+print("A soma dos quadrados dos 3 numeros é de:{}".format(soma))
